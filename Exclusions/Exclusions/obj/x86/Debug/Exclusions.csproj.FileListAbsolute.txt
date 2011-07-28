@@ -1,0 +1,9 @@
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\bin\Debug\Exclusions.exe
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\bin\Debug\Exclusions.pdb
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\obj\x86\Debug\Exclusions.Form1.resources
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\obj\x86\Debug\Exclusions.Properties.Resources.resources
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\obj\x86\Debug\Exclusions.exe
+C:\VSProjects\CarboniteExclusions\Exclusions\Exclusions\obj\x86\Debug\Exclusions.pdb
